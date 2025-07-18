@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Smart-transport-tracker
 A Flutter-based Android application for real-time transport tracking using Google Maps. The smart_transport_tracker app leverages the Google Maps SDK to display location-based transport information and integrates native Android components for enhanced functionality. Ideal for users seeking efficient transport monitoring solutions.
 =======
+=======
+>>>>>>> d49202562ec6fe86a94dcf0ba366c5e746499942
 # smart_transport_tracker
 
 A new Flutter project.
@@ -18,4 +21,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
 >>>>>>> d492025 (first)
+=======
+>>>>>>> d49202562ec6fe86a94dcf0ba366c5e746499942
